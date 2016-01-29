@@ -1,0 +1,47 @@
+{	
+	"stations": {
+		"Trone": {
+			"neighbours":[
+	        {
+	          "line":2,
+	          "name":"Arts-Loi"
+	        },
+	        {
+	          "line":6,
+	          "name":"Arts-Loi"
+	        },
+	        {
+	          "line":6,
+	          "name":"Porte de Namur"
+	        },
+	        {
+	          "line":2,
+	          "name":"Porte de Namur"
+	        }]
+		},
+		"Gare Centrale": {
+			"neighbours":[
+	        {
+	          "line":1,
+	          "name":"Parc"
+	        },
+	        {
+	          "line":5,
+	          "name":"Parc"
+	        },
+	        {
+	          "line":5,
+	          "name":"De Brouckere"
+	        },
+	        {
+	          "line":1,
+	          "name":"De Brouckere"
+	        }
+	      	]
+		},
+		"Belgica": {
+
+		}
+	}
+	
+}
