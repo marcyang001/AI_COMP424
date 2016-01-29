@@ -1,0 +1,1270 @@
+{
+    "Albert": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Horta"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Horta"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Churchill"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Stalle"
+        }
+    ], 
+    "Alma": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Kraainem"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Vandervelde"
+        }
+    ], 
+    "Anneessens": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Bourse"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Bourse"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Lemonnier"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Lemonnier"
+        }
+    ], 
+    "Arts-Loi": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Madou"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Madou"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Maelbeek"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Maelbeek"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Trone"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Trone"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Parc"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Parc"
+        }
+    ], 
+    "Aumale": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Jacques Brel"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Saint-Guidon/Sint-Guido"
+        }
+    ], 
+    "Beaulieu": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Demey"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Delta"
+        }
+    ], 
+    "Beekkant": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Osseghem"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Osseghem"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Etangs Noirs"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Etangs Noirs"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Gare de l'Ouest"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Gare de l'Ouest"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Gare de l'Ouest"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Gare de l'Ouest"
+        }
+    ], 
+    "Belgica": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Pannenhuis"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Simonis"
+        }
+    ], 
+    "Bizet": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Veeweyde/Veeweide"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "La Roue/Het Rad"
+        }
+    ], 
+    "Bockstael": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Stuyvenbergh"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Pannenhuis"
+        }
+    ], 
+    "Botanique": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Madou"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Madou"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Rogier"
+        }
+    ], 
+    "Bourse": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Anneessens"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Anneessens"
+        }
+    ], 
+    "CERIA/COOVI": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "La Roue/Het Rad"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Eddy Merckx"
+        }
+    ], 
+    "Churchill": [
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Albert"
+        }
+    ], 
+    "Clemenceau": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Delacroix"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Delacroix"
+        }
+    ], 
+    "Comte de Flandre": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Sainte-Catherine"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Sainte-Catherine"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Etangs Noirs"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Etangs Noirs"
+        }
+    ], 
+    "De Brouckere": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Gare Centrale"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Gare Centrale"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Bourse"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Bourse"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Sainte-Catherine"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Sainte-Catherine"
+        }
+    ], 
+    "Delacroix": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Clemenceau"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Clemenceau"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Gare de l'Ouest"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Gare de l'Ouest"
+        }
+    ], 
+    "Delta": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Beaulieu"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Hankar"
+        }
+    ], 
+    "Demey": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Herrmann-Debroux"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Beaulieu"
+        }
+    ], 
+    "Eddy Merckx": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "CERIA/COOVI"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Erasme"
+        }
+    ], 
+    "Erasme": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Eddy Merckx"
+        }
+    ], 
+    "Esplanade": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Gare du Nord"
+        }
+    ], 
+    "Etangs Noirs": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Comte de Flandre"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Comte de Flandre"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Beekkant"
+        }
+    ], 
+    "Gare Centrale": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Parc"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Parc"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "De Brouckere"
+        }
+    ], 
+    "Gare de l'Ouest": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Delacroix"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Delacroix"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Jacques Brel"
+        }
+    ], 
+    "Gare du Midi": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Lemonnier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Lemonnier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Clemenceau"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Clemenceau"
+        }
+    ], 
+    "Gare du Nord": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Esplanade"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Rogier"
+        }
+    ], 
+    "Gribaumont": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Tomberg"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Josephine-Charlotte"
+        }
+    ], 
+    "Hankar": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Delta"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Petillon"
+        }
+    ], 
+    "Herrmann-Debroux": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Demey"
+        }
+    ], 
+    "Heysel": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Houba-Brugmann"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Roi Baudouin"
+        }
+    ], 
+    "Horta": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Parvis de Saint-Gilles"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Parvis de Saint-Gilles"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Albert"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Albert"
+        }
+    ], 
+    "Hotel des Monnaies": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Louise"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Louise"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Porte de Hal"
+        }
+    ], 
+    "Houba-Brugmann": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Stuyvenbergh"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Heysel"
+        }
+    ], 
+    "Jacques Brel": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Gare de l'Ouest"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Aumale"
+        }
+    ], 
+    "Josephine-Charlotte": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Gribaumont"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Montgomery"
+        }
+    ], 
+    "Kraainem": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Stockel"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Alma"
+        }
+    ], 
+    "La Roue/Het Rad": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Bizet"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "CERIA/COOVI"
+        }
+    ], 
+    "Lemonnier": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Anneessens"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Anneessens"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Gare du Midi"
+        }
+    ], 
+    "Louise": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Porte de Namur"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Porte de Namur"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Hotel des Monnaies"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Hotel des Monnaies"
+        }
+    ], 
+    "Madou": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Botanique"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Botanique"
+        }
+    ], 
+    "Maelbeek": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Schuman"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Schuman"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Arts-Loi"
+        }
+    ], 
+    "Merode": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Montgomery"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Thieffry"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Schuman"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Schuman"
+        }
+    ], 
+    "Montgomery": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Josephine-Charlotte"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Merode"
+        }
+    ], 
+    "Osseghem": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Simonis"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Simonis"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Beekkant"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Beekkant"
+        }
+    ], 
+    "Pannenhuis": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Bockstael"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Belgica"
+        }
+    ], 
+    "Parc": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Gare Centrale"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Gare Centrale"
+        }
+    ], 
+    "Parvis de Saint-Gilles": [
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Horta"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Horta"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Porte de Hal"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Porte de Hal"
+        }
+    ], 
+    "Petillon": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Hankar"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Thieffry"
+        }
+    ], 
+    "Porte de Hal": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Hotel des Monnaies"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Hotel des Monnaies"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Parvis de Saint-Gilles"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Parvis de Saint-Gilles"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Gare du Midi"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Gare du Midi"
+        }
+    ], 
+    "Porte de Namur": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Trone"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Trone"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Louise"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Louise"
+        }
+    ], 
+    "Ribaucourt": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Yser"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Yser"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Simonis"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Simonis"
+        }
+    ], 
+    "Rogier": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Gare du Nord"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "Gare du Nord"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Botanique"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Botanique"
+        }, 
+        {
+            "cost": 2, 
+            "line": 3, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Yser"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Yser"
+        }
+    ], 
+    "Roi Baudouin": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Heysel"
+        }
+    ], 
+    "Roodebeek": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Vandervelde"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Tomberg"
+        }
+    ], 
+    "Saint-Guidon/Sint-Guido": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Aumale"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Veeweyde/Veeweide"
+        }
+    ], 
+    "Sainte-Catherine": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "De Brouckere"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Comte de Flandre"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Comte de Flandre"
+        }
+    ], 
+    "Schuman": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Merode"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Merode"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Maelbeek"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Maelbeek"
+        }
+    ], 
+    "Simonis": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Belgica"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Ribaucourt"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Ribaucourt"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Osseghem"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Osseghem"
+        }
+    ], 
+    "Stalle": [
+        {
+            "cost": 1, 
+            "line": 4, 
+            "name": "Albert"
+        }
+    ], 
+    "Stockel": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Kraainem"
+        }
+    ], 
+    "Stuyvenbergh": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Bockstael"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Houba-Brugmann"
+        }
+    ], 
+    "Thieffry": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Petillon"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Merode"
+        }
+    ], 
+    "Tomberg": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Roodebeek"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Gribaumont"
+        }
+    ], 
+    "Trone": [
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Arts-Loi"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Porte de Namur"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Porte de Namur"
+        }
+    ], 
+    "Vandervelde": [
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Alma"
+        }, 
+        {
+            "cost": 2, 
+            "line": 1, 
+            "name": "Roodebeek"
+        }
+    ], 
+    "Veeweyde/Veeweide": [
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Saint-Guidon/Sint-Guido"
+        }, 
+        {
+            "cost": 1, 
+            "line": 5, 
+            "name": "Bizet"
+        }
+    ], 
+    "Yser": [
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Rogier"
+        }, 
+        {
+            "cost": 2, 
+            "line": 2, 
+            "name": "Ribaucourt"
+        }, 
+        {
+            "cost": 1, 
+            "line": 6, 
+            "name": "Ribaucourt"
+        }
+    ]
+}
