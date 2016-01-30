@@ -230,7 +230,7 @@ print "\n\n"
 Question 1 b) 
 
 """
-print "Solution with the lowest cost (sample output for uniform search cost"
+print "Solution with the lowest cost (sample output for uniform search cost)"
 
 print "Print Format: station name, cost, metro line"
 
